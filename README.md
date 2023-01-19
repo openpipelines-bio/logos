@@ -1,26 +1,26 @@
 OpenPipeline logo contest
 ================
 
-## `design-1.svg`
+## `images/design-1.png`
 
-![](design-1.svg)
+![](images/design-1.png)
 
-## `design-2.svg`
+## `images/design-2.png`
 
-![](design-2.svg)
+![](images/design-2.png)
 
-## `design-3.svg`
+## `images/design-3.png`
 
-![](design-3.svg)
+![](images/design-3.png)
 
-## `OP2.svg`
+## `images/OP2.png`
 
-![](OP2.svg)
+![](images/OP2.png)
 
-## `OP3.svg`
+## `images/OP3.png`
 
-![](OP3.svg)
+![](images/OP3.png)
 
-## `OP4.svg`
+## `images/OP4.png`
 
-![](OP4.svg)
+![](images/OP4.png)

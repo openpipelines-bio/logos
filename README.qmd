@@ -4,14 +4,14 @@ format: gfm
 ---
 
 ```{r echo=FALSE, output="asis"}
-svgs <- list.files(".", pattern = "*.svg")
+images <- list.files("images", pattern = "*.png", full.names = TRUE)
 
-for (svg in svgs) {
+for (image in images) {
   cat(glue::glue("
 
-## `{svg}`
+## `{image}`
 
-![]({svg})
+![]({image})
 
 "), sep = "")
 }
