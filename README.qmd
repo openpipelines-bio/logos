@@ -11,7 +11,9 @@ for (image in images) {
 
 ## `{image}`
 
+<div style=\"background-color: #fff\">
 ![]({image})
+</div>
 
 "), sep = "")
 }
