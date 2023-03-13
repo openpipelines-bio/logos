@@ -25,6 +25,10 @@ OpenPipeline logo contest
 
 ![](images/OP3.png)
 
+## `images/OP4-experiment.png`
+
+![](images/OP4-experiment.png)
+
 ## `images/OP4.png`
 
 ![](images/OP4.png)
